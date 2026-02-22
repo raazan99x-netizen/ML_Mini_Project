@@ -7,7 +7,7 @@ The model is trained using Random Forest Regression and can predict house prices
 ## Live App
 
 You can try the web app here:
-https://hpp-99x.streamlit.app/
+https://hpp-99x.streamlit.app
 
 ## What I Did
 
